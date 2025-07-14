@@ -3,7 +3,6 @@
 
 **Physics Student**  
 📧 sarasame00@gmail.com  
-📞 +34 655 98 61 04  
 📍 Barcelona, Spain  
 
 ---
@@ -39,6 +38,8 @@ Institut de Ciències de Materials de Barcelona (ICMAB), 2024 – 2025
 - Research introduction scholarship from CSIC (Spanish National Research Council)  
 - Project: *Quantum Field Theory for Non-equilibrium Many-body Problems*  
 - Learning and applying concepts like Green’s functions and Matsubara formalism
+- 🔗 [Project Repository 1](https://github.com/sarasame00/mgf_ir_t2g)  
+- 🔗 [Project Repository 1](https://github.com/sarasame00/t2g_app)
 
 **Be an ICFOnian for a Day**  
 Institut de Ciències Fotòniques (ICFO), 2024 – 2025  
